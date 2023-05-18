@@ -1,0 +1,1 @@
+I'm currently following Odin's Project course to consolidate my skills especially in JavaScript.
